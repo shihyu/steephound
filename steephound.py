@@ -3,7 +3,7 @@
 """
 Tracks steep and cheap and launches window on discovering a deal that you are interested in. 
 
-:author: Subhodeep Moitra(smoitra@cs.cmu.edu)
+:author: Subhodeep Moitra(smoitra@cs.cmu.edu), Sam Taggart
 :license: BSD
 :platform: Unix, Windows
 

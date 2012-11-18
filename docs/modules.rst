@@ -1,5 +1,5 @@
-Module :mod:`steephound`
-----------------------
+Modules
+------------------------
 
 .. automodule:: steephound
 	:members:
