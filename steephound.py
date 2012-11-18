@@ -2,8 +2,13 @@
 
 """
 Tracks steep and cheap and launches window on discovering a deal that you are interested in. 
-@author: Subhodeep Moitra(smoitra@cs.cmu.edu)
-@license : BSD
+
+:author: Subhodeep Moitra(smoitra@cs.cmu.edu)
+:license: BSD
+:platform: Unix, Windows
+
+To run the script all you need to do is ::
+	>>> python steephound.py
 
 """
 

@@ -1,0 +1,13 @@
+This program tracks Steep and Cheap for deals and then displays a screen message
+
+Pre-requisites:
+Python 2.7+ (may work on older python, not tested)
+
+Installation: (Not required)
+$ sudo python setup.py install
+
+Running:
+$ python steephound.py
+
+If you have installed it, then
+$ steephound.py
