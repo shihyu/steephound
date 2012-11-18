@@ -1,3 +1,5 @@
+#! usr/bin/env python
+
 """
 Tracks steep and cheap and launches window on discovering a deal that you are interested in. 
 @author: Subhodeep Moitra(smoitra@cs.cmu.edu)
@@ -12,7 +14,8 @@ import urllib2
 
 # constants
 POLL_PERIOD=30 # hit site every 30s
-kwdlist = ["alpine","gloves","mountaineering","climbing","steep"];
+kwdlist = ["alpine","gloves","mountaineering","climbing",\
+"sleeping bag","bivy","hardshell","trail running","houdini"];
 
 class MsgWindow() :
 	""" Displays information in a dialog window """ 

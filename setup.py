@@ -5,16 +5,16 @@ except ImportError :
 
 
 config = {
-    'description' : 'My Project',
+    'description' : 'Tracks Steep and Cheap',
     'author' : 'Subhodeep Moitra',
-    'url' : 'https://github.com/smoitra87/...' ,
-    'download_url' : 'https://github.com/smoitra87/.../downloads',
+    'url' : 'https://github.com/smoitra87/steephound.git' ,
+    'download_url' : \
+		'https://github.com/smoitra87/steephound/downloads',
     'author_email' : 'subho@cmu.edu',
     'version' : '0.1',
-    'install_requires' : ['nose'],
-    'packages' : ['NAME'],
-    'scripts' : [],
-    'name' : 'NAME'
+	#'py_modules' : ['steephound'],
+	'scripts' : ['steephound.py'],
+    'name' : 'SteepHound'
 }
 
 setup(**config)
