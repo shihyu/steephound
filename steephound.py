@@ -7,8 +7,7 @@ Tracks steep and cheap and launches window on discovering a deal that you are in
 :license: BSD
 :platform: Unix, Windows
 
-To run the script all you need to do is ::
-	>>> python steephound.py
+To run the script all you need to do is ``$ python steephound.py``
 
 """
 
